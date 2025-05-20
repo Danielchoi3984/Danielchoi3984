@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Choi</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
+- 💻 Graduated CS Bachelor at UADE https://www.uade.edu.ar
+
 - 🌱 I’m currently learning **AI / Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danielchoi3984](https://github.com/Danielchoi3984)
