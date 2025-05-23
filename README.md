@@ -3,7 +3,7 @@
 
 - 💻 Graduated CS Bachelor at UADE https://www.uade.edu.ar
 
-- 🌱 I’m currently learning **AI / Machine learning**
+- 🤖 I’m currently learning **AI / Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danielchoi3984](https://github.com/Danielchoi3984)
 
